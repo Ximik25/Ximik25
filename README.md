@@ -1,5 +1,5 @@
 ## Hello,you are on my profile where you can all my developments👋
-<h3 align="left">Свяжитесь со мной:</h3>
+
 <p align="left">
 </p>
 
